@@ -2,9 +2,8 @@
 
 ##### NOW
 
-- ✨ Full Stack Developer at Empire Life
-- 🇨🇦 2B Computer Engineering at University of Waterloo
-- ⏭️ Learning Next.js
+- ✨ Seeking Winter 2023 Internships
+- 🇨🇦 3B Computer Engineering at University of Waterloo
 
 ##### BIO
 
