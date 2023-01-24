@@ -2,8 +2,8 @@
 
 ##### NOW
 
-- ✨ Seeking Winter 2023 Internships
-- 🇨🇦 3B Computer Engineering at University of Waterloo
+- ✨ Software Developer Intern at Monogram!
+- 🇨🇦 4A Computer Engineering at University of Waterloo
 
 ##### BIO
 
