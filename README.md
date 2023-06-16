@@ -2,7 +2,7 @@
 
 ##### NOW
 
-- ✨ Software Developer Intern at Monogram!
+- ✨ Incoming Software Developer Intern at Canvass AI!
 - 🇨🇦 4A Computer Engineering at University of Waterloo
 
 ##### BIO
