@@ -1,7 +1,7 @@
 ### Hi, I'm John 👋
 
 ##### NOW
-- ✨ Incoming Software Developer Intern at Canvass AI!
+- ✨ Software Engineering Intern at Canvass AI!
 - 🇨🇦 4A Computer Engineering at University of Waterloo
 
 ##### BIO
