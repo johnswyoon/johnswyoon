@@ -3,7 +3,7 @@
 I'd love to connect and chat with you about any full-time SWE opportunities.
 
 ##### NOW
-- 🏫 4B Computer Engineering at University of Waterloo
+- 🏫 Recent Computer Engineering at University of Waterloo (Class of 2024)
 
 ##### BIO
 - 🧠 Just finished my internship at Canvass AI!
