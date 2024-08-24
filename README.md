@@ -3,7 +3,7 @@
 I'd love to connect and chat with you about any full-time SWE opportunities.
 
 ##### NOW
-- 🏫 Recent Computer Engineering at University of Waterloo (Class of 2024)
+- 🏫 Just graduated from the University of Waterloo (Computer Engineering '24)
 
 ##### BIO
 - 🧠 Just finished my internship at Canvass AI!
